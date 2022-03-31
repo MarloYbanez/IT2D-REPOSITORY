@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SOCIAL MEDIA HISTORY</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="wrapper">
+			<nav class="navbar">
+				
+				<ul>
+					<li><a class="active" href="index.html">Home</a></li>
+					<li><a href="blogs.html">BLOGS</a></li>
+					<li><a href="people.html">PEOPLE</a></li>
+				</ul>
+			</nav>
+			<div class="center">
+			<h1>Welcome To </h1>
+			<h2>SOCIAL MEDIA HISTORY</h2>
+			<div class="buttons">
+		</div>
+		</div>
+</body>
+</html>
