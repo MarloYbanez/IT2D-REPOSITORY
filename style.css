@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	background: url(PHOTOS/bg2.jpg) ;
+	background-size: cover;
+	height: 100vh;
+}
+.navbar{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.4);
+}
+.navbar .logo{
+	width: 140px;
+	height: auto;
+	padding: 20px 100px;
+}
+.navbar ul{
+	float: right;
+	margin-right: 20px;
+}
+.navbar ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+.navbar ul li a{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	padding: 6px 13px;
+	text-decoration: none;
+	transition: .4s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+	background: red;
+	border-radius: 2px;
+}
+.wrapper .center{
+	position: absolute;
+	left: 50%;
+	top: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+	user-select: none;
+}
+.center h1{
+	color: white;
+	font-size: 70px;
+	width: 900px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Courier New,Lucida Console, Monaco;
+}
+.center h2{
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 10px;
+	width: 885px;
+	text-align: center;
+	font-family: Courier New,Lucida Console, Monaco;
+}
+.center .buttons{
+	margin: 35px 280px;
+}
+.buttons button{
+	height: 50px;
+	width: 150px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #ffb3b3;
+	background: red;
+	outline: none;
+	cursor: pointer;
+	border: 1px solid #cc0000;
+	border-radius: 25px;
+	transition: .4s;
+}
+.buttons .btn2{
+	margin-left: 25px;
+}
+.buttons button:hover{
+	background: #cc0000;
+}
+
+.blogs {
+	margin: 5%;
+	padding: 2%;
+	text-align: left;
+	background-color: #cccccc;
+	opacity: 90%;
+
+}
+
+.fb img{
+	height: 20%;
+	width: 20%;
+	float: left;
+	padding: 10px;
+
+}
+
+.insta img{
+	height: 15%;
+	width: 15%;
+	float: left;
+	padding: 10px;
+}
+.twit img{
+	height: 13%;
+	width: 13%;
+	float: left;
+	padding: 10px;
+}
+.fb{
+	padding: 20px;
+	margin: 10px;
+}
+
+.inta {
+padding: 18px;
+margin: 8px;
+}
+.twit {
+	padding: 20px;
+
+}
+.fb p {
+	text-decoration: none;
+}
+
+.p1 {
+	margin: 5%;
+	padding: 2%;
+	text-align: left;
+	background-color: #cccccc;
+	opacity: 90%;
+
+}
+
+.fb1 img{
+	height: 15%;
+	width: 15%;
+	float: left;
+	padding: 10px;
+
+}
+
+.insta1 img{
+	height: 15%;
+	width: 15%;
+	float: left;
+	padding: 10px;
+}
+.twit1 img{
+	height: 15%;
+	width: 15%;
+	float: left;
+	padding: 10px;
+}
+.fb1{
+	padding: 20px;
+	margin: 10px;
+}
+
+.inta1 {
+padding: 20px;
+margin: 10px;
+}
+.twit1 {
+	padding: 20px;
+
+}
