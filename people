@@ -1,1 +1,47 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SOCIAL MEDIA HISTORY</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body background="PHOTOS/bg2.jpg" style="height: 150%;">
+
+			<nav class="navbar">
+				
+				<ul>
+					<li><a class="active" href="index.html">Home</a></li>
+					<li><a href="blogs.html">BLOGS</a></li>
+					<li><a href="people.html">PEOPLE</a></li>
+				</ul>
+			</nav>
+	<div class="p1">
+		<div class="fb1">
+		<img src="PHOTOS/fb1.jpg">
+		<p> Mark Zuckerberg is the founder, chairman and CEO of Meta, which he originally founded as Facebook in 2004. Mark is responsible for setting the overall direction and product strategy for the company. He is also the co-founder and co-CEO of the Chan Zuckerberg Initiative, which is leveraging technology to help solve some of the world’s toughest challenges – from eradicating disease, to improving education, to reforming the criminal justice system. Mark studied computer science at Harvard University before moving to Palo Alto, California in 2004.</p>
+</div>
+<div class="insta1">
+		<img src="PHOTOS/insta1.jpg">
+<p> Adam Mosseri (@mosseri) is the Head of Instagram where he oversees all functions of the business including engineering, product and operations. A designer at heart, Adam is known for balancing sharp design thinking with thoughtful product strategy to create experiences that bring people together and encourage authentic communication.
+
+Adam has been at Facebook for more than ten years. He was design director for Facebook's mobile apps and then moved into product management where he led the News Feed product and engineering teams for many years. He was Head of News Feed prior to joining Instagram where he oversaw product before managing the entire organization.
+
+Prior to Facebook, Adam worked at TokBox as the company’s first designer. He began his career founding a design consultancy in 2003 with offices in New York and San Francisco that focused on graphic, interaction and exhibition design. Adam holds a BA from the Gallatin School of Interdisciplinary Study at NYU where he studied Information Design and Media.
+
+Born and raised in New York, he now lives in San Francisco with his wife and two son</p>
+
+<div class="twit1">
+		<img src="PHOTOS/twit1.jpg">
+<p>Jack Dorsey, (born November 19, 1976, St. Louis, Missouri, U.S.), American Web developer and entrepreneur who, with Evan Williams and Christopher Stone, cofounded (2006) the online microblogging service Twitter.
+
+As a teenager, Dorsey created taxi-dispatching software that was adopted by taxicab companies. He attended New York University before moving (1999) to San Francisco, where he set up a company that used the Internet to handle the dispatching of couriers and emergency vehicles as well as taxis. In 2000 he first considered using text and instant messaging (based on the principles of dispatch software) as a way of keeping in touch with friends. Six years later he approached Williams and Stone with his idea; together they developed a prototype of what would become the Twitter platform. Dorsey posted the first Twitter message on March 21, 2006. </p>
+
+</div>
+
+
+	</div>
+	
+
+</body>
+</html>
