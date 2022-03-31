@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SOCIAL MEDIA HISTORY</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body background="bg2.jpg">
+	<div class="wrapper">
+			<nav class="navbar">
+				
+				<ul>
+					<li><a class="active" href="index.html">Home</a></li>
+					<li><a href="blogs.html">BLOGS</a></li>
+					<li><a href="people.html">PEOPLE</a></li>
+				</ul>
+			</nav>
+	<div class="blogs">
+		<div class="fb">
+		<img src="PHOTOS/fb.jpg">
+		<p> Facebook, American online social network service that is part of the company Meta Platforms. Facebook was founded in 2004 by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes, all of whom were students at Harvard University. Facebook became the largest social network in the world, with nearly three billion users as of 2021, and about half that number were using Facebook every day. The company’s headquarters are in Menlo Park, California.</p>
+
+		
+</div>
+<div class="insta">
+		<img src="PHOTOS/insta.jpg">
+<p> The story of Instagram’s explosive rise reads like a Silicon Valley fairy tale, with the company gaining staggering momentum within just a few short months. The photo and video-sharing social media application took only eight weeks for software engineers to develop before it was launched on Apple’s mobile operating system in October 2010. In less than two years, Facebook (FB) had acquired the company for $1 billion in cash and stock. But like all good tales, the process involved many twists and turns, failures and successes, conflicts and synergies, and a dose of fortuitous happenstance. </p>
+
+<p>In 2009, Kevin Systrom, a 27-year-old Stanford University graduate, was working at Nextstop, a travel recommendations startup. Systrom had previously worked at Google (GOOG) as a corporate development associate and interned at Odeo, a company that would later evolve into Twitter (TWTR).
+
+</p>
+</div>
+
+<div class="twit">
+		<img src="PHOTOS/twit.jpg">
+<p>Twitter emerged from the podcasting venture Odeo, which was founded in 2004 by Evan Williams, Biz Stone, and Noah Glass. (Williams and Stone had previously worked at Google, and Williams had created the popular Web authoring tool Blogger.) Apple announced in 2005 that it would add podcasts to its digital media application iTunes, and Odeo’s leadership felt that the company could not compete with Apple and a new direction was needed. Odeo’s employees were asked about any interesting side projects they had, and engineer Jack Dorsey proposed a short message service (SMS) on which one could send share small bloglike updates with friends. Glass proposed the name Twttr.   </p>
+
+</div>
+
+
+	</div>
+		</div>
+
+</body>
+</html>
